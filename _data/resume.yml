@@ -1,0 +1,34 @@
+theme: default
+header:
+  name: Arun Karthik Chaturvedula
+  suffix: MSc, B.Tech
+  display_contact_info: true
+  current_title: Senior Support Engineer
+  intro: >
+    I'm an Azure Architect Expert certified in Microsoft Cloud technologies, jack of all trades with almost
+    a decade of experience in Cloud computing, ranging from responsibilities starting with support to software 
+    development and delivering key projects for public and private sector clients. I am passionate and proactive
+    with a high attention to detail, and take the utmost pride in my work.
+contact:
+  #address: 123 Main St, United Kingdom GB1 234
+  #phone: (0) 7777777777
+  email: resume@arunkc.com
+sections:
+  experience:   true
+  education:    true
+  projects:     true
+  skills:       true
+  recognition:  true
+  associations: false
+  interests:    true
+  links:        true
+  social_links: false
+social:
+  Website:    http://arunkc.com
+  GitHub:     https://github.com/arunkcx
+  Twitter:    https://twitter.com/arunkarthik
+  #Dribbble:  https://dribbble.com/user
+  #FaceBook:  https://facebook.com/user
+  LinkedIn:   https://linkedin.com/in/arunkch
+  #Instagram: https://instagram.com/user
+  #Medium:    https://medium.com/@user
