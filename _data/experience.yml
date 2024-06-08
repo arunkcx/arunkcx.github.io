@@ -1,0 +1,54 @@
+- company: "Neilson Financial Services"
+  summary: "Life Insurance provider across the globe, with services currently provided in the United Kingdom and Canada."
+  #logo: "/img/companylogos/hchb.png"
+  url: "https://www.neilsonfs.com/"
+  positions:
+
+  - title: "Senior Support Engineer"
+    startdate: 2023-09-11
+#   enddate:
+    summary: "Senior Application and Technical Support Engineer, working with the Data and App teams, Azure administration, in house application development, run and maintain infrastructure and provide troubleshooting for Internal Applications."
+    projects:
+      - "Developed internal tools for troubleshooting network and connectivity issues, suggesting basic actions for the user to carry out to reduce ticket volumes."
+      - "Provide senior level technical support assistance to userbase across regions, resolving issues related to database querying, scheduler monitoring, Azure Virtual Desktop reconfiguration, M365 and Azure administration."
+
+- company: "ESyn3rgy Ltd"
+  summary: "A Cloud Computing Managed Service Provider (MSP) dedicated to providing infrastructure deployment, maintenance and support for various Public and Private sector clients in the United Kingdom."
+  #logo: "/img/companylogos/es.jpg"
+  url: "https://www.autoalert.com/"
+  positions:
+
+  - title: "3rd Line Cloud Infrastructure Engineer"
+    startdate: 2019-05-01
+    enddate: 2023-09-06
+    summary: "Senior Technical Engineer, part of the Cloud and Infrastructure Services Team for Public and Private Sector clients, Senior escalation point for 1st and 2nd line teams, assisting and resolution of complex tickets within SLAs."
+    projects:
+      - "Carrying out and leading Azure and M365 Migration projects, performing multiple Mail and Data Migration Projects for various UK based clients moving them to the cloud, using technologies such as Azure Virtual Desktop and the Microsoft 365 suite of applications including Teams, Exchange Online, SharePoint Online and OneDrive."
+      - "Large scale mail and data migration for Government entities, Domain transfers, Certificate renewals, SAML configuration and Single Sign On setup, numerous Service Improvement projects streamlining internal workflow."
+      - "Extensive knowledge in Microsoft Licensing via customer reseller partnership TDSYNNEX, Microsoft 365 Licensing and Reseller relationships, acquiring Microsoft Gold Partner and Cyber Essentials Plus certifications for the organisation. "
+      - "Lead engineer in setting up new client M365 tenants from scratch and perform Run and Maintain tasks for client infrastructure, run DevOps tasks for clients, and carrying out DevOps maintenance tasks for customers."
+      - "Implementing Security Baseline features such as Privileged Identity Management across multiple Azure customer estates, "
+      - "Completed multiple certifications as part of internal training, including the Microsoft Azure Cloud Solutions Architect Expert, and the Microsoft Azure DevOps Expert."
+
+  - title: "2nd Line Support Engineer and Software Developer"
+    startdate: 2016-06-04
+    enddate: 2019-04-31
+    summary: "As a Second Line IT Support Engineer and Software Developer, I was responsible for quickly triaging and troubleshooting issues with the clients infrastructure and computing. Developed software solutions to assist with the access of Cloud Computing services."
+    projects:
+      - "Lead developer for a bespoke Windows app for use by a Government client in the UK, using C# dot net and WPF."
+      - "Development work on other tools allowing users to perform detailed on-demand analysis of internal client systems and service, real time confidential status updates and troubleshooting methods provided as a self-service mechanism."
+      - "System and Server administration, run and maintain Microsoft SharePoint, OneDrive for Business, Microsoft Exchange, and self-hosted On-Premises architecture, provide client support for the same."
+      - "Transition into Microsoft Cloud, Assist and complete various projects for migration from OnPrem to Azure and Cloud Integration, including mail migration from Microsoft Exchange On Premises hosted mail to Exchange Online services. "
+      - "Working extensively with Microsoft PowerShell and scripting to automate daily Sysadmin and Support tasks, creating a PowerShell toolkit for efficient working performing regular internal IT tasks such as on/offboarding user accounts, mailbox export, user/group management, amongst other tasks."
+
+
+  - title: "2nd Line Support Engineer and Software Developer"
+    startdate: 2013-06-13
+    enddate: 2016-06-03
+    summary: "Began as Intern via Staffordshire University Project work for 12 months, later transitioned into a full-time on-site role within the organisation."
+    projects:
+      - "Primarily worked as a developer using C#.Net and WPF to develop bespoke frontend and backend applications for customers."
+      - "Working with the Microsoft Remote Desktop protocol and creating the frontend for the “Tuduma MyView” platform; A customized version of MSRDP and Azure Virtual Desktop before it was offered through Microsoft directly."
+      - "Built a seamless solution that lets Customers access their remote applications through a frontend, application lists and has built in utilities such as on demand latency testing for RDP performance analytics, built in user guides for basic tasks, quick upload functionality to copy large data across SFTP all within a singular integrated interface."
+      - "Providing Front line support for users completing service desk tickets, working with the ticketing system, resolving issues with regards to the MyView platform and providing general desktop computer support, adhering to SLAs, and resolving tickets in a timely fashion."
+
