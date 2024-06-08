@@ -31,7 +31,7 @@ kramdown:
 header_pages:
   - resume.html
   
-gravatar_hash:581c6ccacb8c69d0ef6addc5870a9991d10090edc3a2048cf4a80d021dd15163
+gravatar_hash: 581c6ccacb8c69d0ef6addc5870a9991d10090edc3a2048cf4a80d021dd15163
     
 plugins:
   - jekyll-feed
