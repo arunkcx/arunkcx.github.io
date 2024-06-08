@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Welcome to Arun's tech / blog / site!
 
-Maybe say a some things about yourself.
+There's not much here yet, but thanks for visiting.
 
-Or maybe what you plan to blog about.
+If you're looking to get in touch, use one of the contact details.
