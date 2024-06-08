@@ -1,0 +1,33 @@
+#- skill: string
+#  description: string
+#  list:
+#    - array
+#    - of
+#    - strings
+#
+# Template supports both a description AND a skill list, however it may look best if only one or the
+# other is used. Lists are sorted and concatenated without line breaks separated by • (&bull;)
+
+- skill: Cloud Infrastructure Maintenance and Support
+  description: "11+ years of experience working with Infrastructure and servers, run and maintain infrastructure, variety of technical support experience across the decade."
+- skill: OnPrem to Cloud Migration
+  description: "4+ years of experience working with customers migrating data and services from On Premesis servers to the Microsoft Azure cloud, end to end migrations and infrastructure setup."
+- skill: .NET Development Using C# and WPF
+  description: "4+ years of experience working with C# and .NET to build Win32 Applications, rapid prototyping, simple XAML interfaces with Forms and automation."
+- skill: Database Design, Development and Reporting
+  description: "1+ year of experience in database query tuning, index tuning, SQL development, troubleshooting issues, data analysis, custom reporting and scheduler monitoring."
+  
+- skill: Tools & Technologies
+  list:
+    - Azure
+    - Microsoft 365
+    - Microsoft Teams (Administration)
+    - Visual Studio
+    - VS Code
+    - Git
+    - Jira
+    - PowerShell
+    - SQL Server Management Studio (SSMS)
+    - SQL Server Reporting Services (SSRS)
+
+
