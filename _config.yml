@@ -25,6 +25,11 @@ rss: rss
 kramdown:
   syntax_highlighter_opts:
     disable: true
+
+header_pages:
+  - resume.html
+  
+gravatar_hash:581c6ccacb8c69d0ef6addc5870a9991d10090edc3a2048cf4a80d021dd15163
     
 plugins:
   - jekyll-feed
@@ -37,6 +42,11 @@ titles_from_headings:
 defaults:
   - scope:
       path: ""
-      type: post
     values:
-      tags: Other
+      image: https://2.gravatar.com/avatar/581c6ccacb8c69d0ef6addc5870a9991d10090edc3a2048cf4a80d021dd15163?size=800 # Apply default site image
+  - scope:
+      path: ""
+      type: posts
+    values:
+      tags:
+        - Other # Add a default tag to all posts
