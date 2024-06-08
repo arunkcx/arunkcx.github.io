@@ -1,0 +1,4 @@
+networking:
+  - name: Speed test - CloudFlare
+    description: Speed/Latency testing
+    link: https://speed.cloudflare.com
