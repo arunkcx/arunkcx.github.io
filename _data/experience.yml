@@ -10,7 +10,11 @@
     summary: "Senior Application and Technical Support Engineer, working with the Data and App teams, Azure administration, in house application development, run and maintain infrastructure and provide troubleshooting for Internal Applications."
     projects:
       - "Developed internal tools for troubleshooting network and connectivity issues, suggesting basic actions for the user to carry out to reduce ticket volumes."
-      - "Provide senior level technical support assistance to userbase across regions, resolving issues related to database querying, scheduler monitoring, Azure Virtual Desktop reconfiguration, M365 and Azure administration."
+      - "Provide senior level technical support assistance to userbase across regions, resolving issues related to database querying."
+      - "Database scheduler monitoring and resolution, Azure Virtual Desktop reconfiguration, Microsoft 365 and Azure administration."
+      - "Work with customer financial data within the UK Compliance regulations and completing time sensitive tasks within deadlines."
+      - "Investigate application errors and collaborate with Engineering on resolution."
+      
 
 - company: "ESyn3rgy Ltd"
   summary: "A Cloud Computing Managed Service Provider (MSP) dedicated to providing infrastructure deployment, maintenance and support for various Public and Private sector clients in the United Kingdom."
@@ -29,8 +33,9 @@
       - "Lead engineer in setting up new client M365 tenants from scratch and perform Run and Maintain tasks for client infrastructure, run DevOps tasks for clients, and carrying out DevOps maintenance tasks for customers."
       - "Implementing Security Baseline features such as Privileged Identity Management across multiple Azure customer estates, "
       - "Completed multiple certifications as part of internal training, including the Microsoft Azure Cloud Solutions Architect Expert, and the Microsoft Azure DevOps Expert."
+      - "Assisted customers with Azure DevOps tasks, run and maintain IaC, Kubernetes and Docker container maintenance, merge codebase using kubectl and perform troubleshooting for Website issues such as uploading files."
 
-  - title: "2nd Line Support Engineer and Software Developer"
+  - title: "2nd Line Engineer and Software Developer"
     startdate: 2016-06-04
     enddate: 2019-04-31
     summary: "As a Second Line IT Support Engineer and Software Developer, I was responsible for quickly triaging and troubleshooting issues with the clients infrastructure and computing. Developed software solutions to assist with the access of Cloud Computing services."
@@ -42,7 +47,7 @@
       - "Working extensively with Microsoft PowerShell and scripting to automate daily Sysadmin and Support tasks, creating a PowerShell toolkit for efficient working performing regular internal IT tasks such as on/offboarding user accounts, mailbox export, user/group management, amongst other tasks."
 
 
-  - title: "2nd Line Support Engineer and Software Developer"
+  - title: "1st Line Support Engineer and Junior Developer"
     startdate: 2013-06-13
     enddate: 2016-06-03
     summary: "Began as Intern via Staffordshire University Project work for 12 months, later transitioned into a full-time on-site role within the organisation."
