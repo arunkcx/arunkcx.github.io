@@ -1,6 +1,6 @@
 - company: "Neilson Financial Services"
   summary: "Life Insurance provider across the globe, with services currently provided in the United Kingdom and Canada."
-  #logo: "/img/companylogos/hchb.png"
+  logo: "/img/companylogos/nfs.png"
   url: "https://www.neilsonfs.com/"
   positions:
 
@@ -18,7 +18,7 @@
 
 - company: "ESyn3rgy Ltd"
   summary: "A Cloud Computing Managed Service Provider (MSP) dedicated to providing infrastructure deployment, maintenance and support for various Public and Private sector clients in the United Kingdom."
-  #logo: "/img/companylogos/es.jpg"
+  logo: "/img/companylogos/es3.png"
   url: "https://www.es3cloud.com/"
   positions:
 
