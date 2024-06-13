@@ -4,16 +4,16 @@
   url: "https://www.neilsonfs.com/"
   positions:
 
-  - title: "Senior Support Engineer"
+  - title: "Systems and Application Support Analyst"
     startdate: 2023-09-11
 #   enddate:
-    summary: "Senior Application and Technical Support Engineer, working with the Data and App teams, Azure administration, in house application development, run and maintain infrastructure and provide troubleshooting for Internal Applications."
+    summary: "Working with the Data and App teams, Azure administration, in house application development, run and maintain infrastructure and provide troubleshooting for Internal Applications."
     projects:
       - "Developed internal tools for troubleshooting network and connectivity issues, suggesting basic actions for the user to carry out to reduce ticket volumes."
-      - "Provide senior level technical support assistance to userbase across regions, resolving issues related to database querying."
+      - "Provide technical support assistance to userbase across regions, resolving issues related to database querying."
       - "Database scheduler monitoring and resolution, Azure Virtual Desktop reconfiguration, Microsoft 365 and Azure administration."
       - "Work with customer financial data within the UK Compliance regulations and completing time sensitive tasks within deadlines."
-      - "Investigate application errors and collaborate with Engineering on resolution."
+      - "Investigate application errors and collaborate with Engineering on resolution, JIRA tracking."
       
 
 - company: "ESyn3rgy Ltd"
